@@ -1,6 +1,6 @@
 # ESP32 Analog Sensor Threshold Detection using Wokwi
 
-This project demonstrates how to interface an analog sensor with an ESP32 in the Wokwi simulator. When the sensor value exceeds a predefined threshold, the LED turns ON.
+This project demonstrates how to interface an analog sensor (potentiometer) with an ESP32 in the Wokwi simulator. When the sensor value exceeds a predefined threshold, the LED turns ON.
 
 ## Components
 - ESP32 Dev Board
