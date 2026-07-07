@@ -15,8 +15,8 @@ This project demonstrates how to interface an analog sensor (potentiometer) with
 - When the voltage drops below the threshold, the LED turns OFF.
   
 ## Files
-- sketch.ino
-- diagram.json
+- `sketch.ino`
+- `diagram.json`
 
 ## Simulation
 https://wokwi.com/projects/468684412836313089
